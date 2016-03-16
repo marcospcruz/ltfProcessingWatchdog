@@ -1,0 +1,17 @@
+br\com\marcospcruz\ltfProcessingWatchdog\communicator\MailSender.class
+br\com\marcospcruz\WatchdogMainClass.class
+br\com\marcospcruz\ltfProcessingWatchdog\watchdog\WatchDog.class
+br\com\marcospcruz\ltfProcessingWatchdog\communicator\MailSender$1.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\XMLUtils.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\FileUtils.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\Utilitario.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\FullThreadDump.class
+br\com\marcospcruz\ltfProcessingWatchdog\dao\MailConfigurationDao.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\ConstantesEnum.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\ThreadMonitor.class
+br\com\marcospcruz\ltfProcessingWatchdog\dao\Database.class
+br\com\marcospcruz\test\ThreadDumpGenerator.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\OracleDSParameterMappingClass.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\MyLoggerSingleton.class
+br\com\marcospcruz\ltfProcessingWatchdog\dao\EntryDateDao.class
+br\com\marcospcruz\ltfProcessingWatchdog\util\PropertiesManager.class
